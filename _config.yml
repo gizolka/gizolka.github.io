@@ -16,7 +16,7 @@
 title: Going back to school
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my  website dedicated to the content of the learning materials, progress I am making doing a career  transition into the IT sector. First stage is going back to school and learn the basics!  
+  This is a website dedicated to the content of the learning materials, projects and overall progress I am making while doing a career transition into the IT sector. First stage is going back to school and learn the basics!  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gizolka.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gizolka
