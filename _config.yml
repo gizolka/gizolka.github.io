@@ -27,6 +27,17 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
+# Enable pagination
+paginate: 5
+
+# Setting in defaults: Jekyll site has a folder path of assets/img where you have images (static files) stored:
+defaults:
+  - scope: 
+      path: "assets/img"
+    values: 
+      image: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
