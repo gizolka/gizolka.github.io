@@ -13,9 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 'Computer Science - Back to the root'
+title: 'Zurück in die Schule - Back to the root'
 
-description: 'This is a website dedicated to the content of the learning materials, projects and overall progress I am making while doing a career transition into the IT sector. First stage is going back to school and learn the basics - this is where I am now.'  
+description: 'DE:	Ich habe diese Website den Fortschritten meiner Ausbilding im Bereich Fachinformatik - Systemintegration gewidment. Es geht dabei um eine Karriereänderung von der allgemeinen Administration in die IT Welt. Eine totale Umwandlung.
+ 
+EN:	This is a website dedicated to the content of the learning materials, projects and overall progress I am making while doing a career transition into the IT sector. First stage is going back to school and learn the basics - this is where I am now.'  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gizolka.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
